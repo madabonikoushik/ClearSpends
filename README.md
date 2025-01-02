@@ -27,41 +27,32 @@ Build Tool: Vite – ensuring high performance and optimized build processes
 Styling: Modular and scalable CSS for responsive and sleek layouts
 
 # Installation
-Clone the Repository:
+# Clone the Repository:
 bash
 Copy code
 git clone https://github.com/madabonikoushik/ClearSpends.git
 cd ClearSpends
 
 # Install Dependencies:
-
 bash
-
 Copy code
-
 npm install
 
-Run the App in Development Mode:
-
+# Run the App in Development Mode:
 bash
-
 Copy code
-
 npm run dev
 
-Build for Production:
+# Build for Production:
 
 bash
-
 Copy code
-
 npm run build
-
 Contributing
 
 We welcome contributions to improve ClearSpends!
 
-How to Contribute:
+# How to Contribute:
 Fork the Repository and create a new branch.
 Make Changes – Ensure the code is clean and well-documented.
 Test Your Changes – Make sure everything works as expected.
