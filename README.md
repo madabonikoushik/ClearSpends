@@ -1,7 +1,7 @@
 
 # ClearSpends – Financial Planner App
 
-ClearSpends is a modern financial planning application designed to help users gain full control over their finances. Built with HTML, CSS, JavaScript, React, and Vite, the app offers a seamless, responsive, and intuitive interface to manage budgets, track expenses, and visualize spending patterns. Whether you're planning monthly budgets or tracking daily transactions, ClearSpends simplifies financial management with real-time data updates and dynamic visualizations.
+ClearSpends is a modern financial planning application designed to help users gain full control over their finances. Built with HTML, CSS, JavaScript, React, and Vite, the app offers a seamless, responsive, and intuitive interface to manage budgets, track expenses, and visualize spending patterns. Whether you're planning monthly budgets or tracking daily transactions, ClearSpends simplifies financial management with real-time data updates and dynamic visualizations.You can view the site here:https://moonlit-dango-7464d8.netlify.app/
 
 # Key Features:
 
