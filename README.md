@@ -28,25 +28,21 @@ Styling: Modular and scalable CSS for responsive and sleek layouts
 
 # Installation
 # Clone the Repository:
-bash
-Copy code
+
 git clone https://github.com/madabonikoushik/ClearSpends.git
 cd ClearSpends
 
 # Install Dependencies:
-bash
-Copy code
+
+
 npm install
 
 # Run the App in Development Mode:
-bash
-Copy code
+
 npm run dev
 
 # Build for Production:
 
-bash
-Copy code
 npm run build
 Contributing
 
