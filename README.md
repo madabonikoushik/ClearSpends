@@ -3,7 +3,7 @@
 
 ClearSpends is a modern financial planning application designed to help users gain full control over their finances. Built with HTML, CSS, JavaScript, React, and Vite, the app offers a seamless, responsive, and intuitive interface to manage budgets, track expenses, and visualize spending patterns. Whether you're planning monthly budgets or tracking daily transactions, ClearSpends simplifies financial management with real-time data updates and dynamic visualizations.
 
-Key Features:
+# Key Features:
 
 Real-Time Budget Tracking – Monitor your spending as it happens, ensuring you stay on top of your financial goals.
 
@@ -26,16 +26,14 @@ Build Tool: Vite – ensuring high performance and optimized build processes
 
 Styling: Modular and scalable CSS for responsive and sleek layouts
 
-Installation
-
+# Installation
 Clone the Repository:
-
 bash
 Copy code
 git clone https://github.com/madabonikoushik/ClearSpends.git
 cd ClearSpends
 
-Install Dependencies:
+# Install Dependencies:
 
 bash
 
